@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/FreeRTOS-Kernel/include",
+                "${workspaceFolder}/include",
+                "${PICO_SDK_PATH}",
+                "/Users/ray/pico-sdk/src/rp2_common/hardware_gpio/include",
+                "/Users/ray/pico-sdk/src/common/pico_stdlib/include",
+                "/Users/ray/pico-sdk/src/boards/include/boards"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/opt/homebrew/bin/arm-none-eabi-gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "macos-gcc-arm",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,10 @@
+{
+  "cSpell.words": ["OPTIMISED"],
+  "C_Cpp.errorSquiggles": "Enabled",
+  "files.associations": {
+    "cstdlib": "cpp",
+    "random": "cpp"
+  },
+  "python.formatting.provider": "black",
+  "python.pythonPath": "/opt/anaconda3/bin/python"
+}
